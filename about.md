@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-You can contact me over email or my github profile.
+Please feel invited to contact me over email or my github profile.
