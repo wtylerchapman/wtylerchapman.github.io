@@ -1,1 +1,0 @@
-z indexWhen you add css positioning to an element and give it a z-index (other than auto) it creates new stacking context with new stacking levels inside the new context.
